@@ -1,0 +1,6 @@
+{
+  "name": "agent_ethicguard",
+  "auto_deploy": false,
+  "safety_checks": true,
+  "pause_enabled": true
+}
